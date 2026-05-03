@@ -28,7 +28,7 @@
 | Style | Aperçu |
 | :--- | :--- |
 | **Braids Classiques** | ![Braids](https://images.unsplash.com/photo-1632765854612-9b02b6ec2b15?w=200&q=80) |
-| **Fulani Braids** | ![Fulani](https://images.unsplash.com/photo-10i7fbspgDaY?w=200&q=80) |
+| **Fulani Braids** | ![Fulani](https://images.unsplash.com/photo-1621605815971-fbc98d665033?w=200&q=80) |
 | **Cornrows** | ![Cornrows](https://images.unsplash.com/photo-1646067950580-b79e782e4e7d?w=200&q=80) |
 
 ## ✍️ Auteur
